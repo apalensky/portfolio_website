@@ -10,7 +10,7 @@ Find me on: [LinkedIn](https://www.linkedin.com/in/alexanderpalensky/), [Kaggle]
 * Imported and transformed over 150,000 plate appearance events
 * Generated novel pitch similarity scoring using R and Euclidean Distance
 * Applied pitch usage weighting with Earth Mover's Distance to score arsenals
-* Built a Shiny application for staff to use the model
+* Built a Shiny application for staff to use the model in offseason pitch design
 
 ![](/images/PSShiny.png)
 
