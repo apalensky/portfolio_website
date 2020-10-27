@@ -1,6 +1,9 @@
 # Portfolio_Website
 Alexander's data science project portfolio
 
+
+# Recent Projects
+
 # [Project 1: Similarity Scoring College Pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
 * Imported and transformed over 150,000 plate appearance events
 * Generated novel pitch similarity scoring using R and Euclidean Distance
@@ -18,3 +21,14 @@ Alexander's data science project portfolio
 * Gave a presentation to undergraduate departmental professors on wildlife resource management effectiveness using research on states identified with high invasive ratios
 
 ![](/images/Choropleth_Map.jpeg)
+
+# Recent Reads
+* Data Science for Business, Foster Provost & Tom Fawcett
+* Data Science from Scratch, Joel Grus (in progress)
+
+# Learning & Certifications
+* [Machine Learning Certification](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
+* Kaggle micro-course: Python
+* Kaggle micro-course: Pandas
+* Kaggle micro-course: Data Visualization (in progress)
+* Kaggle micro-course: Machine Learning (in progress)
