@@ -27,6 +27,8 @@ Find me on: [LinkedIn](https://www.linkedin.com/in/alexanderpalensky/), [Kaggle]
 # Recent Reads
 * Data Science for Business, Foster Provost & Tom Fawcett
 * Data Science from Scratch, Joel Grus (in progress)
+* Freakonomics, Steven Levitt & Stephen Dubner
+* The Only Rule Is It Has to Work, Ben Lindbergh & Sam Miller
 
 # Learning & Certifications
 * [Machine Learning Certification](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
