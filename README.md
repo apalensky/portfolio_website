@@ -1,6 +1,8 @@
 # Portfolio_Website
 Alexander's data science project portfolio
 
+Find me on: [LinkedIn](https://www.linkedin.com/in/alexanderpalensky/), [Kaggle](https://www.kaggle.com/apalensky), [Medium](https://medium.com/@apalensky)
+
 
 # Recent Projects
 
