@@ -17,9 +17,11 @@ Find me on: [LinkedIn](https://www.linkedin.com/in/alexanderpalensky/), [Kaggle]
 
 # Project 2: Product recommendation engine
 * Provided data by a beverage distribution company covering 1,500 products, close to 2,500 customers, and more than 8250,000 transactions over the past four years to conduct initial research.
-* Removed top nationally selling brands from analysis to focus on niche or newer products, broken down by beverage category.
+* Removed sparse records and top nationally selling brands from analysis to focus on marketable niche or newer products, broken down by beverage category.
 * Captured insights from association rule mining to construct the recommendation engine which returned the top desired number of uncarried products sold at similar businesses or identified as emergent trends in the beverage industry .
 * Presented the company with the recommendation engine and a report covering commonly recomended products and how these recommendations varied by customer business category and size.
+
+![](/images/DrinkProducts.png)
 
 
 # [Project 3: National Park states invasive fish species populations](https://github.com/apalensky/Invasive_Fish_Project) 
