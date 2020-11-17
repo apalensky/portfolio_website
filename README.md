@@ -42,7 +42,8 @@ Alexander's data science project portfolio
 
 # Learning & certifications
 * [Machine Learning Certification](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
-* Kaggle micro-course: Python
-* Kaggle micro-course: Pandas
-* Kaggle micro-course: Data Visualization (in progress)
-* Kaggle micro-course: Machine Learning (in progress)
+* Kaggle micro-courses
+  + Python
+  + Pandas
+  + Intro to Machine Learning
+  + Data Visualization (in progress)
