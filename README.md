@@ -6,7 +6,7 @@ Alexander's data science project portfolio
 
 # Recent projects
 
-## [National Lacrosse League box score compilation](https://github.com/apalensky/NLL)
+## Project 1: [National Lacrosse League box score compilation](https://github.com/apalensky/NLL)
 * First individual to make National Lacrosse League (NLL) box score data publicly available for analysis and download.
 * Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies
 * Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable
