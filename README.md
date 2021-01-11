@@ -43,8 +43,8 @@ Alexander's data science project portfolio
 
 
 # Recent reads
+* *A Short History of Nearly Everything*, Bill Bryson
 * *Data Science for Business*, Foster Provost & Tom Fawcett
-* *Data Science from Scratch*, Joel Grus (in progress)
 * *Freakonomics, Steven Levitt* & Stephen Dubner
 * *The Only Rule Is It Has to Work*, Ben Lindbergh & Sam Miller
 
