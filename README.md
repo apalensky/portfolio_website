@@ -6,14 +6,14 @@ Alexander's data science project portfolio
 
 # Recent projects
 
-## [Project 1: National Lacrosse League box score compilation](https://github.com/apalensky/NLL)
+## Project 1: [National Lacrosse League box score compilation](https://github.com/apalensky/NLL)
 * First individual to make National Lacrosse League (NLL) box score data publicly available for analysis and download.
 * Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies
 * Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable
 * This project is ongoing, with data files downloadable from this [Kaggle page](https://www.kaggle.com/apalensky/nll-statistics). I will continue to add insights, applications, and images to this project so that others can learn more about box lacrosse trends.
 
 
-## [Project 2: Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
+## Project 2: [Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
 * Imported and transformed over 150,000 plate appearance events.
 * Generated novel pitch similarity scoring using R and Euclidean Distance.
 * Applied pitch usage weighting with Earth Mover's Distance to score arsenals.
@@ -31,7 +31,7 @@ Alexander's data science project portfolio
 ![](/images/DrinkProducts.png)
 
 
-## [Project 4: National Park states invasive fish species populations](https://github.com/apalensky/Invasive_Fish_Project) 
+## Project 4: [National Park states invasive fish species populations](https://github.com/apalensky/Invasive_Fish_Project) 
 * Imported nearly 120,000 known NationalPark wildlife species from the [National Park Service Kaggle](https://www.kaggle.com/nationalparkservice/park-biodiversity) and reduced data to to extant fish species.
 * Scraped additional National Park data from online as well as known fish species non-endemic to each state from the United States Geological Survey (USGS)
 * Cleaned and joined our scraped data to perform feature exploration.
