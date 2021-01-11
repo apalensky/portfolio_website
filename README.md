@@ -6,7 +6,14 @@ Alexander's data science project portfolio
 
 # Recent projects
 
-## [Project 1: Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
+## [Project 1: National Lacrosse League box score compilation](https://www.kaggle.com/apalensky/nll-statistics)
+* First individual to make National Lacrosse League (NLL) box score data publicly available for analysis and download.
+* Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies
+* Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable
+* This project is ongoing, with scripts and data files stored in my [NLL repository](https://github.com/apalensky/NLL). I will continue to add insights, applications, and images to this project.
+
+
+## [Project 2: Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
 * Imported and transformed over 150,000 plate appearance events.
 * Generated novel pitch similarity scoring using R and Euclidean Distance.
 * Applied pitch usage weighting with Earth Mover's Distance to score arsenals.
@@ -15,7 +22,7 @@ Alexander's data science project portfolio
 ![](/images/PSShiny.png)
 
 
-## Project 2: Product recommendation engine
+## Project 3: Product recommendation engine
 * Provided data by a beverage distribution company covering 1,500 products, close to 2,500 customers, and more than 8250,000 transactions over the past four years to conduct initial research.
 * Removed sparse records and top nationally selling brands from analysis to focus on marketable niche or newer products, broken down by beverage category.
 * Captured insights from association rule mining to construct the recommendation engine which returned the top desired number of uncarried products sold at similar businesses or identified as emergent trends in the beverage industry .
@@ -24,7 +31,7 @@ Alexander's data science project portfolio
 ![](/images/DrinkProducts.png)
 
 
-## [Project 3: National Park states invasive fish species populations](https://github.com/apalensky/Invasive_Fish_Project) 
+## [Project 4: National Park states invasive fish species populations](https://github.com/apalensky/Invasive_Fish_Project) 
 * Imported nearly 120,000 known NationalPark wildlife species from the [National Park Service Kaggle](https://www.kaggle.com/nationalparkservice/park-biodiversity) and reduced data to to extant fish species.
 * Scraped additional National Park data from online as well as known fish species non-endemic to each state from the United States Geological Survey (USGS)
 * Cleaned and joined our scraped data to perform feature exploration.
@@ -41,7 +48,6 @@ Alexander's data science project portfolio
 * *The Only Rule Is It Has to Work*, Ben Lindbergh & Sam Miller
 
 # Learning & certifications
-* Continually bringing lacrosse statistics to the public by publishing [NLL statistics on Kaggle](https://www.kaggle.com/apalensky/nll-statistics) and documenting my work through an [NLL GitHub repository](https://github.com/apalensky/NLL)
 * [Machine Learning Certification](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
 * Kaggle micro-courses
   + Python
