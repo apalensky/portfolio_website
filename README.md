@@ -6,11 +6,11 @@ Alexander's data science project portfolio
 
 # Recent projects
 
-## [Project 1: National Lacrosse League box score compilation](https://www.kaggle.com/apalensky/nll-statistics)
+## [Project 1: National Lacrosse League box score compilation](https://github.com/apalensky/NLL)
 * First individual to make National Lacrosse League (NLL) box score data publicly available for analysis and download.
 * Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies
 * Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable
-* This project is ongoing, with scripts and data files stored in my [NLL repository](https://github.com/apalensky/NLL). I will continue to add insights, applications, and images to this project.
+* This project is ongoing, with data files downloadable from this [Kaggle page](https://www.kaggle.com/apalensky/nll-statistics). I will continue to add insights, applications, and images to this project so that others can learn more about box lacrosse trends.
 
 
 ## [Project 2: Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
