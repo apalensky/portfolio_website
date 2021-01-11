@@ -41,6 +41,7 @@ Alexander's data science project portfolio
 * *The Only Rule Is It Has to Work*, Ben Lindbergh & Sam Miller
 
 # Learning & certifications
+* Continually bringing lacrosse statistics to the public by publishing [NLL statistics on Kaggle](https://www.kaggle.com/apalensky/nll-statistics) and documenting my work through an [NLL GitHub repository](https://github.com/apalensky/NLL)
 * [Machine Learning Certification](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
 * Kaggle micro-courses
   + Python
