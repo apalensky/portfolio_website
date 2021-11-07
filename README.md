@@ -54,4 +54,4 @@ Alexander's data science project portfolio
   + Python
   + Pandas
   + Intro to Machine Learning
-  + Data Visualization (in progress)
+  + Data Visualization
