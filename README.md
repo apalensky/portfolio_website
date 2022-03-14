@@ -50,8 +50,11 @@ Alexander's data science project portfolio
 
 # Learning & certifications
 * [Structured Query Language Certificate](https://www.coursera.org/account/accomplishments/verify/HD2QTLX2KCBX) as part of the University of Michigan's Web Applications for Everybody Specialization
-* [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge) (in progress)
+  + [Tools for Data Science Certificate](https://coursera.org/share/43dc1e158b89d7872edf296c90461809) (complete)
+  + [Data Science Methodology Certificate](https://coursera.org/share/e7bc9f187241a3b6854c4e71f364ca94) (complete)
+  + Python for Data Science, AI & Development Certificate (in progress)
+* [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
 * Kaggle micro-courses
   + Python
   + Pandas
