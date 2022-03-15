@@ -49,6 +49,7 @@ Alexander's data science project portfolio
 * *Range*, David Epstein
 
 # Learning & certifications
+* Master of Science in Business Analytics - University of Iowa, 2021
 * [Structured Query Language Certificate](https://www.coursera.org/account/accomplishments/verify/HD2QTLX2KCBX) as part of the University of Michigan's Web Applications for Everybody Specialization
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge) (in progress)
   + [Tools for Data Science Certificate](https://coursera.org/share/43dc1e158b89d7872edf296c90461809) (complete)
