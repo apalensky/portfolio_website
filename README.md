@@ -54,7 +54,8 @@ Alexander's data science project portfolio
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=IBM&utm_medium=institutions&utm_campaign=IBMBadge) (in progress)
   + [Tools for Data Science Certificate](https://coursera.org/share/43dc1e158b89d7872edf296c90461809) (complete)
   + [Data Science Methodology Certificate](https://coursera.org/share/e7bc9f187241a3b6854c4e71f364ca94) (complete)
-  + Python for Data Science, AI & Development Certificate (in progress)
+  + [Python for Data Science, AI & Development Certificate](https://www.coursera.org/account/accomplishments/certificate/TD6P8BJU3R2W) (complete)
+  + Databases and SQL for Data Science with Python Certificate (in progress)
 * [Machine Learning Certificate](https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&siteID=vedj0cWlu2Y-8dRCR5wLniZ9fWtm.KyXfQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y) by Andrew Ng and Stanford University (in progress)
 * Kaggle micro-courses
   + Python
