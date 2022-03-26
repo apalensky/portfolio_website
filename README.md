@@ -18,16 +18,26 @@
  **Dig Deeper:** [NLL Github Repository](https://github.com/apalensky/NLL)
 
 
-## Project 2: [Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
+## Project 2: Similarity scoring college pitchers
+ **Tools:** `R (Rstudio)` `RShiny` `SQL` `Trackman`
+ 
+ **Technical skills:** `Data Wrangling` `Similarity Learning` `Technical Writing`
+ 
 * Imported and transformed over 150,000 plate appearance events.
 * Generated novel pitch similarity scoring using R and Euclidean Distance.
 * Applied pitch usage weighting with Earth Mover's Distance to score arsenals.
 * Built a Shiny application for staff to use the model in offseason pitch design.
 
 ![](/images/PSShiny.png)
+ 
+ **Dig Deeper:** [Article published on Medium](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
 
 
 ## Project 3: Product recommendation engine
+ **Tools:** `R (Rstudio)` `Rattle GUI` `PowerPoint`
+ 
+ **Technical skills:** `Data Wrangling` `Association Rule Mining` `Data Visualization` `Technical Consulting`
+ 
 * Consulting project for a beverage distribution company covering 1,500 products, close to 2,500 customers, and more than 8250,000 transactions over the past four years.
 * Removed sparse records and top nationally selling brands from analysis to focus on marketing new and niche products, broken down by beverage category.
 * Captured insights from association rule mining to construct a recommendation engine which returned the top desired number of uncarried products sold at similar businesses or identified as emergent trends in the beverage industry .
@@ -36,7 +46,11 @@
 ![](/images/DrinkProducts.png)
 
 
-## Project 4: [National Park states invasive fish species populations](https://github.com/apalensky/Invasive_Fish_Project) 
+## Project 4: National Park states invasive fish species populations
+ **Tools:** `R (Rstudio)` `PowerPoint`
+  
+ **Technical skills:** `Web Scraping` `Data Wrangling` `Data Visualization`
+ 
 * Imported nearly 120,000 known NationalPark wildlife species from the [National Park Service Kaggle](https://www.kaggle.com/nationalparkservice/park-biodiversity) and reduced data to to extant fish species.
 * Scraped additional National Park data from online as well as known fish species non-endemic to each state from the United States Geological Survey (USGS).
 * Cleaned and joined our scraped data to perform feature exploration.
@@ -44,6 +58,8 @@
 * Gave a presentation to undergraduate departmental professors on wildlife resource management effectiveness using research on states identified with high invasive ratios.
 
 ![](/images/Choropleth_Map.jpeg)
+ 
+ **Dig Deeper:** [Invasive Fish Species Github Repository](https://github.com/apalensky/Invasive_Fish_Project)
 
 
 # Recent reads
