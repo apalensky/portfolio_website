@@ -1,16 +1,21 @@
 # Alexander Palensky's Portfolio Website
-
+ 
 <a href="https://www.linkedin.com/in/alexanderpalensky/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@apalensky"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/apalensky"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/AlPalensky"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/><a href="https://public.tableau.com/app/profile/alexander.palensky"><img src="https://public.tableau.com/app/assets/images/tableau-sparkle.png" alt="drawing" width="75"/>
-
-
+  
 # Recent projects
 
 
-## Project 1:  [National Lacrosse League box score compilation](https://github.com/apalensky/NLL)
+## Project 1:  National Lacrosse League box score compilation
+  **Tools:** Python (Jupyter), R (Rstudio), Markdown 
+  
+  **Technical skills:** Research, Web scraping, Data Wrangling
+  
 * Made all National Lacrosse League (NLL) box score data publicly available for the first time to enable independent access and analysis.
 * Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies.
 * Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable.
 * This project is ongoing, with data files downloadable from this [Kaggle page](https://www.kaggle.com/apalensky/nll-statistics). I will continue to add insights, applications, and images to this project so that others can learn more about box lacrosse trends.
+  
+  **Dig Deeper:** [NLL Github Repository](https://github.com/apalensky/NLL)
 
 
 ## Project 2: [Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
