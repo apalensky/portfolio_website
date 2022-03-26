@@ -6,9 +6,9 @@
 
 
 ## Project 1:  National Lacrosse League box scores
-  **Tools:** Python (Jupyter), R (Rstudio), Markdown 
+  **Tools:** `Python (Jupyter)` `R (Rstudio)` `Markdown`
   
-  **Technical skills:** Research, Web scraping, Data Wrangling
+  **Technical skills:** `Web Scraping` `Data Wrangling`
   
 * Made all National Lacrosse League (NLL) box score data publicly available for the first time to enable independent access and analysis.
 * Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies.
