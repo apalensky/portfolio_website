@@ -5,7 +5,7 @@
 # Recent projects
 
 
-## Project 1:  National Lacrosse League box score compilation
+## Project 1:  National Lacrosse League box scores
   **Tools:** Python (Jupyter), R (Rstudio), Markdown 
   
   **Technical skills:** Research, Web scraping, Data Wrangling
@@ -15,7 +15,7 @@
 * Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable.
 * This project is ongoing, with data files downloadable from this [Kaggle page](https://www.kaggle.com/apalensky/nll-statistics). I will continue to add insights, applications, and images to this project so that others can learn more about box lacrosse trends.
   
-  **Dig Deeper:** [NLL Github Repository](https://github.com/apalensky/NLL)
+ **Dig Deeper:** [NLL Github Repository](https://github.com/apalensky/NLL)
 
 
 ## Project 2: [Similarity scoring college pitchers](https://medium.com/iowabaseballmanagers/similarity-scoring-college-pitchers-8332fc5860b6)
