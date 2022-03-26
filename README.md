@@ -46,7 +46,7 @@
 ![](/images/DrinkProducts.png)
 
 
-## Project 4: National Park states invasive fish species populations
+## Project 4: National Park invasive fish species
  **Tools:** `R (Rstudio)` `PowerPoint`
   
  **Technical skills:** `Web Scraping` `Data Wrangling` `Data Visualization`
