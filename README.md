@@ -10,9 +10,9 @@
   
   **Technical skills:** `Web Scraping` `Data Wrangling`
   
-* Made all National Lacrosse League (NLL) box score data publicly available for the first time to enable independent access and analysis.
+* Made all National Lacrosse League (NLL) box score data publicly available in one source for the first time, enabling easy online access and empowering community analysis.
 * Scraped and cleaned all publicly available box scores from 1993 through 2020, totaling nearly 55,000 records for floor players and nearly 6,000 records for goalies.
-* Applied sorts based on season and added nontraditional performance metrics per game, per 60 minutes of play, as ratios, and as percentages where applicable.
+* Applied sorts based on season and added leading performance analysis metrics per game, per 60 minutes of play, as ratios, and as percentages.
 * This project is ongoing, with data files downloadable from this [Kaggle page](https://www.kaggle.com/apalensky/nll-statistics). I will continue to add insights, applications, and images to this project so that others can learn more about box lacrosse trends.
   
  **Dig Deeper:** [NLL Github Repository](https://github.com/apalensky/NLL)
