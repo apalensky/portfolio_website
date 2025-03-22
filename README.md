@@ -66,7 +66,7 @@
 * *A Short History of Nearly Everything*, Bill Bryson
 * *Freakonomics, Steven Levitt* & Stephen Dubner
 * *Genghis Khan and the Making of the Modern World*, Jack Weatherford
-* *Sapiens: A Brief History of Humankind*, YuvalNoah Harari
+* *Sapiens: A Brief History of Humankind*, Yuval Noah Harari
 
 # Learning & certifications
 * Master of Science in Business Analytics - University of Iowa
